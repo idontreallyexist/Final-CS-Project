@@ -4,39 +4,39 @@ will get paper stack size data later
 
 -----------------
 
-(Item Name / Size in Bytes / Size in Pages of Paper)
+( Item Name / Size in Bytes / # of Sheets / Total Sheet Volume [L x W x H] )
 
 add byte and paper data
 order them properly
 lwk ask chatgpt for help getting ideas
-also add reference structures
+also add reference objects like buildings, trees, etc
 
 -----------------
 
 first show reference piece of paper
-One bit / - / -  
-One byte / - / -  
-Hello World / - / - 
-Typical Email / - / - 
-Essay / - / - 
-Pixel Art / - / - 
-Small Book / - / -
-Full Resolution Image / - / -
-Gif / - / -
-Full Book / - / -
-Video / - / -
+One bit / 0.125 / N/A / -
+One byte / 1 / N/A / -  
+Hello World / 11 / <1 / - 
+Typical Email / 670 / <1 / - 
+Essay / - / - / - 
+Pixel Art / - / - / - 
+Small Book / - / - / -
+Full Resolution Image / - / - / -
+Gif / - / - / -
+Full Book / - / - / -
+Video / - / - / -
 
 (...idk how to connect these)
 
-Full Movie / - / -
-Library of Congress / - / -
-Wikipedia (no images) / - / -
-Computer storage / - / -
-Wikipedia (with images) / - / -
+Full Movie / - / - / -
+Library of Congress / - / - / -
+Wikipedia (no images) / - / - / -
+Computer storage / - / - / -
+Wikipedia (with images) / - / - / -
 
 (...idk how to connect these)
 
-Human brain / - / -
-Google servers / - / -
-Whole internet / - / -
-All humans on earth / - / -
+Human brain / - / - / -
+Google servers / - / - / -
+Whole internet / - / - / -
+All humans on earth / - / - / -

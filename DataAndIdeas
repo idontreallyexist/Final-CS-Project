@@ -1,1 +1,42 @@
+Calculate size in pages of paper by doing # of bytes divided by 1080 (8640 bits)
+4320 individual bytes (0/1s) per side
+will get paper stack size data later
+
+-----------------
+
 (Item Name / Size in Bytes / Size in Pages of Paper)
+
+add byte and paper data
+order them properly
+lwk ask chatgpt for help getting ideas
+also add reference structures
+
+-----------------
+
+first show reference piece of paper
+One bit / - / -  
+One byte / - / -  
+Hello World / - / - 
+Typical Email / - / - 
+Essay / - / - 
+Pixel Art / - / - 
+Small Book / - / -
+Full Resolution Image / - / -
+Gif / - / -
+Full Book / - / -
+Video / - / -
+
+(...idk how to connect these)
+
+Full Movie / - / -
+Library of Congress / - / -
+Wikipedia (no images) / - / -
+Computer storage / - / -
+Wikipedia (with images) / - / -
+
+(...idk how to connect these)
+
+Human brain / - / -
+Google servers / - / -
+Whole internet / - / -
+All humans on earth / - / -

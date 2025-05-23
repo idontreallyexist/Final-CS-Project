@@ -4,7 +4,7 @@ will get paper stack size data later
 
 -----------------
 
-( Item Name / Size in Bytes / # of Sheets / Total Sheet Volume [L x W x H] )
+( Item Name / Size in Bytes / # of Sheets / Total Sheet Height )
 
 add byte and paper data
 order them properly
